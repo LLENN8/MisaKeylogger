@@ -1,4 +1,3 @@
-```markdown
 # MisaKeylogger
 
 MisaKeylogger is a Python program that logs keyboard inputs, monitors active windows, and tracks clipboard changes. It is designed for educational and research purposes only. Please use it responsibly and in compliance with applicable laws and regulations.
@@ -115,5 +114,3 @@ The author of this software is not responsible for any misuse, damage, or legal 
 
 This project is licensed under the [MIT License](LICENSE).
 ```
-
-This README now includes an example of the folder structure and sample log files. Adjust the folder structure example as per your actual implementation. Feel free to modify it further to better suit your requirements.
