@@ -81,6 +81,7 @@ public_ip: 203.0.113.1
 
 [2024-06-15 13:45:02] Active Window: Mozilla Firefox
  - This is a sample sentence.
+ - This is a new lins.
 [2024-06-15 13:45:05] Active Window: Visual Studio Code
 ```
 
@@ -100,4 +101,3 @@ The author of this software is not responsible for any misuse, damage, or legal 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
