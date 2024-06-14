@@ -38,9 +38,7 @@ MisaKeylogger is a Python program that logs keyboard inputs, monitors active win
    python keylogger.py
    ```
 
-2. Press any key to initiate monitoring.
-3. Use keyboard shortcuts `Ctrl+C` to log copied content and `Ctrl+V` to log pasted content.
-4. Press `Ctrl+C` to stop the keylogger and exit gracefully.
+2. program started to logging activity...
 
 ## Output Example
 
