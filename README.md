@@ -61,9 +61,9 @@ MisaKeylogger
 ```
 ### Device Information ###
 User: user123
-os: Windows 10
+os: Windows 11
 node: DESKTOP-123456
-version: 10.0.19042
+version: 12.0.19042
 machine: AMD64
 processor: Intel64 Family 6 Model 158 Stepping 9, GenuineIntel
 cpu_count: 8
@@ -73,11 +73,11 @@ Storage:
   Device: C:
   Mountpoint: C:\
   Filesystem: NTFS
-  Total: 237.69 GB
+  Total: 100 GB
   Used: 120.45 GB
   Free: 117.24 GB
-local_ip: 192.168.1.2
-public_ip: 203.0.113.1
+local_ip: 182.123.4.5
+public_ip: 123.0.456.1
 
 [2024-06-15 13:45:02] Active Window: Mozilla Firefox
  - This is a sample sentence.
