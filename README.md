@@ -15,7 +15,7 @@ MisaKeylogger is a Python program that logs keyboard inputs, monitors active win
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/MisaKeylogger.git
+   git clone https://github.com/llenn8/MisaKeylogger.git
    ```
 
 2. Navigate to the project directory:
