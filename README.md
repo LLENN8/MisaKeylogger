@@ -96,7 +96,7 @@ Date: 2024-06-15
 
 ## Disclaimer
 
-The author of this software is not responsible for any misuse, damage, or legal implications resulting from the use of this program. **MisaKeylogger is provided for educational and research purposes only**. It is the responsibility of the user to comply with all applicable laws and regulations governing the use of such software.
+The author of this software is not responsible for any misuse, damage, or legal implications resulting from the use of this program. **MisaKeylogger is provided for educational purposes only**. It is the responsibility of the user to comply with all applicable laws and regulations governing the use of such software.
 
 ## License
 
