@@ -1,6 +1,6 @@
 # MisaKeylogger
 
-MisaKeylogger is a Python program that logs keyboard inputs, monitors active windows, and tracks clipboard changes. It is designed for educational and research purposes only. Please use it responsibly and in compliance with applicable laws and regulations.
+MisaKeylogger is a Python program that logs keyboard inputs, monitors active windows, and tracks clipboard changes. It is designed for educational purposes only. Please use it responsibly and in compliance with applicable laws and regulations.
 
 ## Features
 
